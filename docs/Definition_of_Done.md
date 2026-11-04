@@ -6,10 +6,10 @@ This checklist defines the empirical criteria for project completion. Every chec
 
 ## Verification Checklist
 
-- [ ] **1. Camera Calibration Reprojection Error**
+- [x] **1. Camera Calibration Reprojection Error**
   - *Target:* RMS Reprojection Error $< 0.50$ px across $\ge 20$ calibration captures.
   - *Evidence:* Reported in `calibration/calibration_report.json` and saved matrices in `calibration/camera_params.npz`.
-  - *Result:* `Pending calibration run`
+  - *Result:* **0.1725 px** RMS error across 25/25 valid calibration images (Target met). Visual verification: `calibration/undistortion_comparison.png`.
 
 - [ ] **2. Test Split Committed Prior to Model Training**
   - *Target:* Split file list `dataset/splits/test.txt` committed to Git history strictly before any training scripts or weights.
@@ -59,3 +59,4 @@ This checklist defines the empirical criteria for project completion. Every chec
 ## Out-of-Scope & Incomplete Declarations
 *(Any item not reached by the 8-hour cutoff will be documented here with justification.)*
 - None declared at project start.
+
