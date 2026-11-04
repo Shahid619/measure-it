@@ -1,0 +1,11 @@
+instance_id,filename,raw_distorted_mae_mm,undistorted_mae_mm,error_reduction_mm,pct_improvement
+1,frame_003.png,9.45,9.72,-0.27,-2.8
+2,frame_011.png,10.16,10.35,-0.19,-1.9
+3,frame_013.png,6.54,6.5,0.04,0.7
+4,frame_014.png,2.84,2.33,0.51,18.1
+5,frame_017.png,9.75,31.14,-21.38,-219.2
+6,frame_028.png,2.54,2.21,0.34,13.2
+7,frame_031.png,7.96,8.35,-0.39,-5.0
+8,frame_035.png,11.69,12.12,-0.43,-3.7
+9,frame_001.png,0.72,0.54,0.17,24.0
+10,frame_004.png,35.1,16.39,18.71,53.3
