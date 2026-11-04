@@ -50,3 +50,4 @@ All metrics reported in the evaluation tables are generated directly from the ex
 - **RAM:** System Host Memory
 - **Camera Device:** Smartphone Camera (Fixed focus, locked digital zoom 1.0x)
 - **Native Resolution:** $1920 \times 1080$ (or captured sensor aspect ratio)
+

@@ -46,3 +46,4 @@
 - **Decision:** Minimum-area oriented bounding box (`cv2.minAreaRect`) applied on the largest connected component of the predicted binary mask.
 - **Alternative Rejected:** Axis-aligned bounding box (`cv2.boundingRect`).
 - **Why Rejected:** Axis-aligned bounding boxes introduce severe dimensional inflation whenever the object is rotated relative to the camera frame. An oriented bounding box accurately captures the true primary and secondary orthogonal axes regardless of object rotation.
+
