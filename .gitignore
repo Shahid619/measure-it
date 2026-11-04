@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Large binaries / model weights
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# System / OS
+.DS_Store
+Thumbs.db
+
+# Assessment prompt materials
+*.pdf
+image*.png
+obj*.jpeg
+ref*.jpeg
