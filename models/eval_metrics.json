@@ -1,0 +1,10 @@
+{
+  "architecture": "LightweightUNet",
+  "parameters": 482737,
+  "test_images_count": 8,
+  "mean_test_mask_iou": 0.7426196560263634,
+  "mean_test_precision": 0.7429305911064148,
+  "mean_test_recall": 0.999450646340847,
+  "map_at_50": 1.0,
+  "map_50_95": 0.5249999999999999
+}

@@ -25,3 +25,8 @@ Thumbs.db
 image*.png
 obj*.jpeg
 ref*.jpeg
+
+# Personal walkthrough / study notebooks (not submitted to GitHub)
+study_walkthrough.ipynb
+*.ipynb
+.ipynb_checkpoints/
