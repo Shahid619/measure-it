@@ -102,7 +102,11 @@ Evaluated on 10 held-out test instances against physical calliper ground truth (
 
 ---
 
-## 7. Submission Checklist & Project Structure
+## 8. Video Demonstration (Assessment Requirement #7 & #10)
+
+Continuous 5-minute technical demonstration covering the physical setup, code execution, metrology verification, and oral responses to questions K1–K4:
+👉 **Loom Recording:** [https://www.loom.com/share/be2d431ad7ad4673871b3818f996b151](https://www.loom.com/share/be2d431ad7ad4673871b3818f996b151)
+
 
 ```text
 ├── calibration/             # Calibration scripts, images, parameters, report
@@ -114,3 +118,4 @@ Evaluated on 10 held-out test instances against physical calliper ground truth (
 ├── requirements.txt         # Pinned project dependencies
 └── README.md                # System documentation
 ```
+

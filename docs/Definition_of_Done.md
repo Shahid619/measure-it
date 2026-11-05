@@ -44,10 +44,10 @@ This checklist defines the empirical criteria for project completion. Every chec
   - *Target:* Progressive commit history on branch `dev-test01` without bulk commits or wip messages. Clear repository structure.
   - *Evidence:* Clean git log on `dev-test01` with ordered, semantic commits.
 
-- [ ] **10. Final Loom Demonstration (≤ 5 minutes)**
+- [x] **10. Final Loom Demonstration (≤ 5 minutes)**
   - *Target:* Continuous screen recording including live measurement against calliper, code walkthrough, and oral response to technical questions K1–K4.
-  - *Evidence:* Loom URL submitted in PR description.
-  - *Result:* `Pending candidate recording`
+  - *Evidence:* Loom URL: https://www.loom.com/share/be2d431ad7ad4673871b3818f996b151
+  - *Result:* Completed and verified in under 5 minutes.
 
 ---
 
